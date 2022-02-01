@@ -2,7 +2,6 @@ package com.estudos.encriptarsenhausuario.controller;
 
 import com.estudos.encriptarsenhausuario.model.UsuarioModel;
 import com.estudos.encriptarsenhausuario.repository.UsuarioRepository;
-import com.fasterxml.jackson.core.PrettyPrinter;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

@@ -1,4 +1,4 @@
-#Projeto em Java com Spring Boot, Spring Security e JPA
+#Projeto em Java com Spring Boot, Spring Security, JPA e PostgreSQL
 
 *Encriptar senha do usuário.
 
